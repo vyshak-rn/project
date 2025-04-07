@@ -1,2 +1,0 @@
-# project
-college project
